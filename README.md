@@ -2,7 +2,7 @@ Elite Pros Technical Exam
 
 Instructions:
 
-git clone https://github.com/Standin-Alone/automated-pros.git
+git clone https://github.com/Standin-Alone/elite-pros-client.git
 
 In terminal:
 
